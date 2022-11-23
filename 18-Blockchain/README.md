@@ -47,3 +47,5 @@ receiver = st.text_input("Receiver")
 amount = st.text_input("Amount")
 
 ### Step 4: Test the PyChain Ledger by Storing Records
+<img width="1394" alt="sender_receiver" src="https://user-images.githubusercontent.com/18622578/203456826-9bd22cec-8ecb-4f06-a0e1-beb63fae205a.png">
+<img width="1427" alt="validation" src="https://user-images.githubusercontent.com/18622578/203456865-b6f93b4c-b645-43e2-9ff3-41ae69b9bb7a.png">
