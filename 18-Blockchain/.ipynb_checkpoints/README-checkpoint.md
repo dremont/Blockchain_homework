@@ -41,22 +41,9 @@ class Block:
 
 ### Step 3: Add Relevant User Inputs to the Streamlit Interface
 
-# @TODO:
-# Delete the `input_data` variable from the Streamlit interface.
 input_data = st.text_input("Block Data")
-
-# @TODO:
-# Add an input area where you can get a value for `sender` from the user.
 sender = st.text_input("Sender")
-
-# @TODO:
-# Add an input area where you can get a value for `receiver` from the user.
 receiver = st.text_input("Receiver")
-
-# @TODO:
-# Add an input area where you can get a value for `amount` from the user.
 amount = st.text_input("Amount")
 
 ### Step 4: Test the PyChain Ledger by Storing Records
-18-Blockchain/sender_receiver.png
-18-Blockchain/validation.png
